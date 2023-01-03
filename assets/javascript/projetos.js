@@ -6,7 +6,7 @@ function projetos(section) {
   <div class="cards">
 
     <div class="card">
-      <h3>Meu Portifólio</h3>
+      <h3>Portifólio</h3>
       <div class="img-wrapper">
         <img src="/images/portifolio.png" alt="Imagem do projeto." />
         <div class="buttons">
@@ -40,8 +40,7 @@ function projetos(section) {
         </div>
       </div>
       <p>
-        O presente site que desenvolvi para apresentar a mim e meus
-        projetos.
+      Software web com intuito de me apresentar e apresentar os meus projetos
       </p>
       <p>HTML - CSS - JS</p>
     </div>
@@ -81,7 +80,7 @@ function projetos(section) {
       </div>
     </div>
     <p>
-      Site feito durante um bootcamp da nlw com foco anuncios de esportes eletronicos
+    Software web feito durante um coding bootcamp da Rocketseat com foco anúncios de players, feito para web e mobile com manipulação de dados
     </p>
     <p>HTML - CSS - Node.js - React - TypeScript</p>
   </div>
@@ -122,7 +121,7 @@ function projetos(section) {
     </div>
   </div>
   <p>
-   Catalogo De filmes com CRUD completo
+  Software web com intuito de ser um catalogo De filmes com CRUD completo feio em React.js
   </p>
   <p>HTML - CSS - Node.js - my sql</p>
 </div>

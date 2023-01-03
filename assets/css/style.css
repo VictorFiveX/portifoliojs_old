@@ -539,6 +539,7 @@ body.menu-expanded button path {
 }
 
 #about .content p {
+  text-align: justify;
   margin-block: 2.4rem;
 }
 
@@ -560,7 +561,7 @@ body.menu-expanded button path {
   width: 24rem;
 
   border-radius: 2rem;
-  box-shadow: 0 0 2rem black;
+//  box-shadow: 0 0 2rem black;
 
   transition: 600ms;
 }
