@@ -1,0 +1,1 @@
+vc-domain-verify=portifoliovictor.vercel.app.com,bc15b4f62a82bd698b30
