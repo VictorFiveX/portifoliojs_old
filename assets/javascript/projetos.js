@@ -123,7 +123,7 @@ function projetos(section) {
   <p>
   Software web com intuito de ser um catalogo De filmes com CRUD completo feio em React.js
   </p>
-  <p>HTML - CSS - Node.js - my sql</p>
+  <p>HTML - CSS - Node.js - MySql</p>
 </div>
 
     <div class="card">
