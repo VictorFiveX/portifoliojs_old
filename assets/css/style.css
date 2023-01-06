@@ -453,6 +453,7 @@ body.menu-expanded button path {
 
 #home .button {
   margin-inline: auto;
+
 }
 
 #home .col-b {
@@ -503,34 +504,8 @@ body.menu-expanded button path {
   animation: appear 1s 2s backwards;
 }
 
-#home img#vidro {
-  position: absolute;
-  z-index: 100;
-  right: -2rem;
-  animation: appear-vidro 1s 2.3s backwards;
 
-  filter: contrast(5);
-}
 
-@keyframes appear {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes appear-vidro {
-  from {
-    right: -4rem;
-    opacity: 0;
-  }
-  to {
-    right: -2rem;
-    opacity: 1;
-  }
-}
 
 /*===== ABOUT =================================================*/
 
@@ -541,12 +516,35 @@ body.menu-expanded button path {
 #about .content p {
   text-align: justify;
   margin-block: 2.4rem;
+  margin-bottom: 5rem;
 }
 
-#about .content a {
+#about a {
+  margin-top: 4.4rem;
   text-decoration: none;
   color: var(--paragraph);
   font-weight: bold;
+}
+
+#about .download{
+  align-items: center;
+  background: none;
+  border: 0.2rem solid var(--primary-color);
+  padding: 2rem 5rem;
+  width: fit-content;
+  color: var(--primary-color);
+  font-size: 2.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: 400ms;
+}
+
+#about .download:hover {
+  color: #fff;
+  background-color: var(--primary-hover);
+  border: 0.2rem solid var(--primary-hover);
+  cursor: pointer;
 }
 
 #about .col-a {
@@ -1184,6 +1182,10 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
   #about img:hover {
     width: 55%;
   }
+  #about .Download {
+    margin: 0;
+  }
+
 
   /*===== PROJECTS ====================================*/
 
@@ -1410,6 +1412,14 @@ footer .social-links li:nth-child(4) svg path:nth-child(2) {
 
   #about .content a:nth-child(2) {
     font-size: 1.2rem;
+  }
+  #about.download {
+    font-size: 1.2rem;
+  }
+  .download {
+    padding: 0.8rem 1.6rem;
+    font-size: 1rem;
+    gap: 0.6rem;
   }
 }
 
