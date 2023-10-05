@@ -48,7 +48,7 @@ function projetos(section) {
     <div class="card">
     <h3>NLW E-sports</h3>
     <div class="img-wrapper">
-      <img src="images/NLW.png" alt="Imagem do projeto." />
+      <img src="/images/NLW.png" alt="Imagem do projeto." />
       <div class="buttons">
         <a href="https://github.com/VictorFiveX/NLW-eSports" target="_blank" title="Repositório no Github">
           <svg
@@ -89,7 +89,7 @@ function projetos(section) {
   <div class="card">
   <h3>Catalogo de filmes</h3>
   <div class="img-wrapper">
-    <img src="images/Catalogo.png" alt="Imagem do projeto." />
+    <img src="/images/Catalogo.png" alt="Imagem do projeto." />
     <div class="buttons">
       <a href="https://github.com/VictorFiveX/CatalogoFilmes_node" target="_blank" title="Repositório no Github">
         <svg
@@ -129,7 +129,7 @@ function projetos(section) {
 <div class="card">
 <h3>Pokedex</h3>
 <div class="img-wrapper">
-  <img src="images/Pokedex.png" alt="Imagem do projeto." />
+  <img src="/images/pokedex.png" alt="Imagem do projeto." />
   <div class="buttons">
     <a href="https://github.com/VictorFiveX/Pokedex" target="_blank" title="Repositório no Github">
       <svg
