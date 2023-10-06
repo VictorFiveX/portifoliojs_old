@@ -42,7 +42,7 @@ function projetos(section) {
       <p>
       Software web com intuito de me apresentar e apresentar os meus projetos
       </p>
-      <p>HTML - CSS - JS</p>
+      <p>HTML - CSS - JavaScript</p>
     </div>
   
     <div class="card">
@@ -123,7 +123,7 @@ function projetos(section) {
   <p>
   Software web com intuito de ser um catalogo De filmes com CRUD completo feito em React.js
   </p>
-  <p>HTML - CSS - Node.js - MySql</p>
+  <p>HTML - CSS - JavaScript - MySql</p>
 </div>
 
 <div class="card">
@@ -161,9 +161,9 @@ function projetos(section) {
   </div>
 </div>
 <p>
-Software web com intuito de ser um catalogo De filmes com CRUD completo feito em React.js
+Consumo de informações da pokeAPi com filtro de tipo de pokemon e barra de pesquisa
 </p>
-<p>HTML - CSS - Node.js - MySql</p>
+<p>HTML - CSS - JavaScript - ApiREST</p>
 </div>
 
 
